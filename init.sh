@@ -1,6 +1,7 @@
 #!/bin/sh
 
 
+git pull 
 rm -rf ./helm-chart-sources 2>/dev/null
 mkdir ./helm-chart-sources && cd ./helm-chart-sources/
 
