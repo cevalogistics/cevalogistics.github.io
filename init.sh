@@ -14,3 +14,7 @@ helm lint helm-chart-sources/*
 helm package helm-chart-sources/*
 
 helm repo index --url https://cevalogistics.github.io/ .
+
+git add .
+git commit -m 'Refresh'
+git push
