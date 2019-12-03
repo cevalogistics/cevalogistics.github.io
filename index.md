@@ -3,6 +3,6 @@
 <h1>Ceva Logistics Public Helm Charts</h1>
 </html>
 <ul>
-<br/>
-<br/>
+<li></li>
+<li></li>
 </ul>
