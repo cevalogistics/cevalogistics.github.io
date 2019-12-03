@@ -3,6 +3,6 @@
 <h1>Ceva Logistics Public Helm Charts</h1>
 </html>
 <ul>
-<li></li>
-<li></li>
+<li>multi-cluster-dns-0.0.1</li>
+<li>etcd-make-mirror-0.0.1</li>
 </ul>
