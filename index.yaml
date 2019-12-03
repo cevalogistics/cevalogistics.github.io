@@ -3,9 +3,9 @@ entries:
   etcd-make-mirror:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2019-12-03T14:38:49.424729671Z"
+    created: "2019-12-03T14:42:52.866710345Z"
     description: this is an implementation of external-dns
-    digest: ab7dfcbca79e244d6b878609f9f552aa8592836c90a030eff35f5f0663c67302
+    digest: ff8bddc587f5844fd3c12890e61c5d0eb1e6d496be0fa87dcbb72e40475e0720
     home: https://github.com/external-dns
     icon: https://raw.githubusercontent.com/coreos/etcd/master/logos/etcd-horizontal-color.png
     maintainers:
@@ -17,4 +17,4 @@ entries:
     urls:
     - https://cevalogistics.github.io/etcd-make-mirror-0.0.1.tgz
     version: 0.0.1
-generated: "2019-12-03T14:38:49.42423187Z"
+generated: "2019-12-03T14:42:52.866122346Z"
