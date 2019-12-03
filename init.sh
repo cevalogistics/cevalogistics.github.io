@@ -25,6 +25,12 @@ cd cevalogistics.github.io
 
 cp ../../* . 2>/dev/null
 
+for chart in `find . -name '*.tgz'`
+do
+  pc=`echo $chart | sed -e 's/\.tgz//g'`
+  echo  " * $pc"  >> index.md
+done
+
 git add .
 git commit -m 'Refresh Repository'
 
