@@ -3,9 +3,9 @@ entries:
   etcd-make-mirror:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2019-12-25T15:06:41.777257204Z"
+    created: "2019-12-25T15:11:14.596611353Z"
     description: this is an implementation of external-dns
-    digest: 37025dfdca9b67ffe4ca9e715c1eec75d9d263c465361ac4bac7eda02e392cc7
+    digest: 9369129d1e58b2934f25b84680660ecf12593821ed8ccb5736e8edecc788d27d
     home: https://github.com/external-dns
     icon: https://raw.githubusercontent.com/coreos/etcd/master/logos/etcd-horizontal-color.png
     maintainers:
@@ -20,9 +20,9 @@ entries:
   multi-cluster-dns:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2019-12-25T15:06:41.777561604Z"
+    created: "2019-12-25T15:11:14.607210566Z"
     description: this is an implementation of external-dns
-    digest: 8efc0c6c5b7bcf552015306030e64ffddee5884c259087871732e71734b102c6
+    digest: 7050d7a0a6f287bfffccd9fe7b115d8177307d373ffbb06b2fc1014ef428806d
     home: https://github.com/external-dns
     icon: https://raw.githubusercontent.com/coreos/etcd/master/logos/etcd-horizontal-color.png
     maintainers:
@@ -34,4 +34,4 @@ entries:
     urls:
     - https://cevalogistics.github.io/multi-cluster-dns-0.0.1.tgz
     version: 0.0.1
-generated: "2019-12-25T15:06:41.776828504Z"
+generated: "2019-12-25T15:11:14.58745787Z"
