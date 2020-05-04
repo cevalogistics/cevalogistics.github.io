@@ -1,1 +1,0 @@
-[gimmick:theme](flatly)
