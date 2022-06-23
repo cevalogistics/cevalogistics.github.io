@@ -3,10 +3,10 @@ entries:
   etcd:
   - apiVersion: v1
     appVersion: 3.2.26
-    created: "2020-02-24T23:12:38.916027371Z"
+    created: "2022-06-23T18:23:44.7778604Z"
     description: Distributed reliable key-value store for the most critical data of
       a distributed system.
-    digest: 23f251644a93d0589c47d24190ee3c18ddc66e793ee11cd4d4aea1c39e01f644
+    digest: e4923cb11bb9715a09c1e83e81fb836051027088fca8b6b18a3a763c018b1baf
     home: https://github.com/coreos/etcd
     icon: https://raw.githubusercontent.com/coreos/etcd/master/logos/etcd-horizontal-color.png
     maintainers:
@@ -21,9 +21,9 @@ entries:
   etcd-make-mirror:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2020-02-24T23:12:38.916383168Z"
+    created: "2022-06-23T18:23:44.778203398Z"
     description: this is an implementation of external-dns
-    digest: eff6d73f405859fe9e6aafcbe82c7762a3626c548a581803ca66fa42214197cb
+    digest: 026685484dd9fd8e470e0187b451a0a70775c834e04f6594d24ea1e12ede7fa2
     home: https://github.com/external-dns
     icon: https://raw.githubusercontent.com/coreos/etcd/master/logos/etcd-horizontal-color.png
     maintainers:
@@ -38,9 +38,9 @@ entries:
   multi-cluster-dns:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2020-02-24T23:12:38.916734664Z"
+    created: "2022-06-23T18:23:44.778543696Z"
     description: this is an implementation of external-dns
-    digest: 2f90b2d841b47433e75de4c770cb7ac5d38c7244370a8abb0548d872b0c813a7
+    digest: e4ddab5bc4d5a6019f5267444ceb6c676f201ac34ca890239b3db5f66331f840
     home: https://github.com/external-dns
     icon: https://raw.githubusercontent.com/coreos/etcd/master/logos/etcd-horizontal-color.png
     maintainers:
@@ -52,4 +52,4 @@ entries:
     urls:
     - https://cevalogistics.github.io/multi-cluster-dns-0.0.1.tgz
     version: 0.0.1
-generated: "2020-02-24T23:12:38.914890282Z"
+generated: "2022-06-23T18:23:44.776921206Z"
